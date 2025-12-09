@@ -28,9 +28,8 @@ All the wiring details and technical descriptions are below if you want to go de
 
 Now, I set the alarm on the `DS3231` component via the Web interface and my desk is moving to standing position every day, 2minutes before the morning meeting. Yay!
 
-<p align="center" width="100%">
-    <img width="40%" src="Photos/MovingDesk.gif"> 
-</p>
+[![YT video](https://img.youtube.com/vi/pzgJn2215ew/0.jpg)](https://www.youtube.com/watch?v=pzgJn2215ew)
+![Anti-Trust - War Machine](https://www.youtube.com/watch?v=3CM1_Ji6fJ8)
 
 # ESP32 Daily Alarm Clock + Servo Button Presser
 
